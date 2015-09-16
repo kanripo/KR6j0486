@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:28.486462
+#+DATE: 2015-08-30 20:33:29.670307
 #+TITLE: 佛說摩利支天陀羅尼呪經
 #+PROPERTY: CBETA_ID T21n1256
 #+PROPERTY: ID KR6j0486
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1256
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0486_T_000-0261b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0486_T_001-0261b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1256¶
-
- 《佛說摩利支天陀羅尼呪經》¶
+No. 1256¶
+《佛說摩利支天陀羅尼呪經》¶
 ¶
-失譯人名今附梁錄¶
+失譯人名今附梁錄今附梁錄¶
 
 如是我聞。一時婆伽婆。在舍衛國祇樹給孤
 <pb:KR6j0486_T_001-0261c>¶
@@ -41,8 +40,7 @@ No.1256¶
 利陀那摩私¶
 
 於行路中護我。非行路中護我。晝日中護我¶
-夜中護我。於怨家中護我於王難中護我。於¶
-賊難中護我。於水難中護我於火難中護我。¶
+夜中護我。於怨家中護我於王難中護我。於賊難中護我。於水難中護我於火難中護我。¶
 於疫病中護我於阿鳩隷阿鳩隷無利支帝。¶
 吉利吉利安帝安帝於一切處一切時。護我¶
 弟子某乙。娑婆訶。¶
